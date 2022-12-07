@@ -1,10 +1,10 @@
 ---
-name: ToDo template
+name: MyToDo template
 about: See .github/ISSUE_TEMPLATE/custom.md
-title:  "[DATE]: [FEATURE NAME]"
-labels: 'ToDo'
-projects: 'kaitas/ToDo'
-assignees: 'kaitas'
+title:  "タイトル"
+labels: 'MyToDo'
+projects: 'mayuyuyuyunn/MyToDo'
+assignees: 'mayuyuyuyunn'
 
 ---
 
