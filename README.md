@@ -1,4 +1,4 @@
-# ToDo
+# MyToDo
 Manage your ToDos by Github Issues and Projects
 
 
